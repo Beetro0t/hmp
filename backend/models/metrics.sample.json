@@ -1,0 +1,9 @@
+{
+  "mae": 84210.12,
+  "mape": 0.081,
+  "coverage_80": 0.82,
+  "coverage_50": 0.54,
+  "rows": 500,
+  "train_rows": 400,
+  "test_rows": 100
+}

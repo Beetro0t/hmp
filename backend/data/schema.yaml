@@ -1,0 +1,17 @@
+columns:
+  SaleID: sale_id
+  SaleDate: sale_date
+  SalePrice: price
+  Address: address
+  Suburb: suburb
+  Postcode: postcode
+  PropertyType: property_type
+  Beds: beds
+  Baths: baths
+  Parking: parking
+  LandSizeSqm: land_size_sqm
+  InternalSizeSqm: internal_size_sqm
+  Latitude: lat
+  Longitude: lon
+  Condition: condition
+  Features: features
